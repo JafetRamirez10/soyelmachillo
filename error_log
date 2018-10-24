@@ -1,0 +1,7 @@
+
+[14-May-2018 03:25:50 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rammedia/public_html/soyelmachillo/inscripcion.php on line 105
+[14-May-2018 03:28:01 UTC] PHP Warning:  fread() expects parameter 1 to be resource, string given in /home/rammedia/public_html/soyelmachillo/inscripcion.php on line 73
+[14-May-2018 03:36:53 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rammedia/public_html/soyelmachillo/inscripcion.php on line 74
+[14-May-2018 03:40:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rammedia/public_html/soyelmachillo/inscripcion.php on line 104
+[14-May-2018 15:57:50 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/rammedia/public_html/soyelmachillo/inscripcion.php on line 127
+[14-May-2018 15:57:50 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/rammedia/public_html/soyelmachillo/inscripcion.php on line 128

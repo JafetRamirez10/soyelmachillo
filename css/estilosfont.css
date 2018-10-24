@@ -1,0 +1,56 @@
+html,body{
+	background: url("../images/fondo2.png");
+	
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: black;
+	padding-bottom: 4%;
+}
+
+/** TIPOGRAFIAS **/
+@font-face{
+	src:url("../fonts/Dusha.ttf");
+	font-family: 'navegacion';
+}
+/** FIN DE  TIPOGRAFIAS **/
+
+
+
+/** HACER PREDICCIONES**/
+.activarCodigo1{
+	width: 100%;
+	background-color: #f0f0eb;
+	margin-top: 60px;
+}
+
+
+/** FIN DE HACER PREDICCIONES**/
+
+.texto{
+	font-family: 'navegacion';
+}
+.enviarDatosUsuario1{
+	background-color:#202E57;
+	color:white;
+	display: block;
+	margin:0 auto;
+
+}
+
+nav.navbar{
+	background-color: #202E57!important;
+background: rgba(59,76,130,1);
+background: -moz-linear-gradient(left, rgba(59,76,130,1) 0%, rgba(34,47,87,1) 61%, rgba(34,47,87,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(59,76,130,1)), color-stop(61%, rgba(34,47,87,1)), color-stop(100%, rgba(34,47,87,1)));
+background: -webkit-linear-gradient(left, rgba(59,76,130,1) 0%, rgba(34,47,87,1) 61%, rgba(34,47,87,1) 100%);
+background: -o-linear-gradient(left, rgba(59,76,130,1) 0%, rgba(34,47,87,1) 61%, rgba(34,47,87,1) 100%);
+background: -ms-linear-gradient(left, rgba(59,76,130,1) 0%, rgba(34,47,87,1) 61%, rgba(34,47,87,1) 100%);
+background: linear-gradient(to right, rgba(59,76,130,1) 0%, rgba(34,47,87,1) 61%, rgba(34,47,87,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b4c82', endColorstr='#222f57', GradientType=1 )
+}
+nav a{
+	color:white!important;
+	font-weight: bold;
+}
